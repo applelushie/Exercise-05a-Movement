@@ -15,4 +15,7 @@ None
 None
 
 ## Created by 
- 
+Ella Beihold
+
+## GithubUser
+applelushie
